@@ -28,6 +28,9 @@
 ###
 
 <div align="left">
+  <a href="https://mail.google.com/mail/?view=cm&to=msscgenio@gmail.com&su=Contato%20via%20Github" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/maurílio-santos-84270727b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
