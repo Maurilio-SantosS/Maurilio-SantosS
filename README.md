@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Começando agora!</p>
+<h3 align="left">Começando agora! 🚀</h3>
 
 ###
 
@@ -33,9 +33,6 @@
   </a>
   <a href="https://www.linkedin.com/in/maurílio-santos-84270727b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mauriliomssc?igsh=amVqamVnN2Z0Z3Ax" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
 
